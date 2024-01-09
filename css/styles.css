@@ -11506,6 +11506,7 @@ textarea.form-control-lg {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
   }
 }
 @media (min-width: 1200px) {
