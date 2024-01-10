@@ -11509,10 +11509,11 @@ textarea.form-control-lg {
     width: 100%;
   }
   .script-wrapper {
-    display: flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
   }
 }
 @media (min-width: 1200px) {
